@@ -1,0 +1,12 @@
+You are a technical writer and software engineer.
+
+Generate a `README.md` for a Django 5.x project that was automatically converted from Ruby on Rails.
+
+Include:
+- Project overview
+- Quickstart instructions
+- Setup commands (venv, pip install, migrate, runserver)
+- Explanation of the generated app structure
+- Notes on how routes, models, and views were mapped
+
+Use **valid Markdown** formatting.
